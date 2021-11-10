@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+form#form_cad{
+    text-align: center;
+    margin: 15px 420px;
+    width: 420px;
+}
+
+div#form h1{
+    text-align: center;
+}
+
+div#form h1#cad{
+    text-align: center;
+    margin-top: 230px;
+    padding: 10px;
+}
+
+input{
+    display: block;
+    margin: 15px 95px;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 15px;
+    font-size: 15px;
+}
+
+input#button{
+    margin: 15px 175px;
+    border-radius: 25px;
+}
+
+input#form_cad{
+    width: 300px;
+    margin: 15px 55px;
+}
+
+div#cad_suc{
+    text-align: center;
+    margin: 15px 445px;
+    width: 420px;
+    background-color: green;
+    color: white;
+}
+
+div.error_msg{
+    text-align: center;
+    margin: 15px 445px;
+    width: 420px;
+    background-color: red;
+    color: white;
+}
+
+form#input_log{
+    text-align: center;
+    margin: 15px 420px;
+    width: 420px;
+}
